@@ -1,3 +1,3 @@
 const functiontest = () => {
-    x = y+z
+    x = y+z;
 }
